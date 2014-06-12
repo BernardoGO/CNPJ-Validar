@@ -1,5 +1,0 @@
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CNPJData\CNPJData\bin\Debug\CNPJData.dll
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CNPJData\CNPJData\bin\Debug\CNPJData.pdb
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CNPJData\CNPJData\obj\Debug\ResolveAssemblyReference.cache
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CNPJData\CNPJData\obj\Debug\CNPJData.dll
-C:\Bernardo\Projetos\C#\1 - Librarys\1 - Com DLL\CNPJData\CNPJData\obj\Debug\CNPJData.pdb
